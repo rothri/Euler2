@@ -4,7 +4,7 @@
 #include "Header.h"
 #include <algorithm>
 using namespace std;
-void main(){
+void e54(){
 	 string line;
   fstream myfile ("poker.txt");
   card cArr[10];
