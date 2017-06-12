@@ -2,7 +2,7 @@
 #include "Header.h"
 using namespace std;
 
-void main() {
+void e55() {
 	//this code is very gross and ineffecient please ignore :(
 	int answer=0;
 	int currentNum[400];
