@@ -21,10 +21,28 @@
     <ClCompile Include="54.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="55.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="56.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="57.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="58.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="59.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="60.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
-      <Filter>Header Files</Filter>
+      <Filter>Resource Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
