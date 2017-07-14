@@ -12,3 +12,10 @@
 *.vcxproj
 *.filters
 *.log
+*.obj
+*.obj
+*.tlog
+*.idb
+*.pdb
+*.filters
+*.vcxproj

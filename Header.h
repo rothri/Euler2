@@ -24,3 +24,4 @@ long concactNumber(long num1, long num2);
 bool isWorkingSet(long num1, long num2,long*primeArray);
 bool geoNumCompare(geoNum a, geoNum b);
 void findConnections(int  *numList);
+bool isPermutation(long long int num1, long long int num2);

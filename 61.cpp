@@ -12,7 +12,7 @@ geoNum hept[500]={0};
 geoNum octa[500]={0}; 
 geoNum *nums[6]={tri,squ,pent,hexa,hept,octa};
 int answer=0;;
-void main(){
+void e61(){
 	int n=1;
 	int num=0;
 	while((n*(n+1))/2<10000){

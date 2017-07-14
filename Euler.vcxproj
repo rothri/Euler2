@@ -73,6 +73,7 @@
     <ClCompile Include="59.cpp" />
     <ClCompile Include="60.cpp" />
     <ClCompile Include="61.cpp" />
+    <ClCompile Include="62.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
