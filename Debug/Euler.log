@@ -1,9 +1,8 @@
-﻿Build started 6/12/2017 12:22:08 AM.
+﻿Build started 7/13/2017 10:13:30 PM.
      1>Project "C:\Users\William\documents\visual studio 2012\Projects\Euler\Euler\Euler.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 58.cpp
-         58.cpp
-     1>c:\users\william\documents\visual studio 2012\projects\euler\euler\58.cpp(82): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 61.cpp
+         61.cpp
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\William\documents\visual studio 2012\Projects\Euler\Debug\Euler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\William\documents\visual studio 2012\Projects\Euler\Debug\Euler.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\William\documents\visual studio 2012\Projects\Euler\Debug\Euler.lib" /MACHINE:X86 Debug\53.obj
          Debug\54.obj
@@ -13,9 +12,10 @@
          Debug\58.obj
          Debug\59.obj
          Debug\60.obj
+         Debug\61.obj
          Euler.vcxproj -> C:\Users\William\documents\visual studio 2012\Projects\Euler\Debug\Euler.exe
      1>Done Building Project "C:\Users\William\documents\visual studio 2012\Projects\Euler\Euler\Euler.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.98
+Time Elapsed 00:00:01.34

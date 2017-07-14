@@ -2,6 +2,10 @@ struct card{
 	int value;
 	char suit;
 };
+struct geoNum {
+	int first2;
+	int last2;
+};
 bool nchooser(int n, int r);
 long long int factorial(int n,int r);
 void populateArray(int * arr, int n, int r);
@@ -18,3 +22,5 @@ bool IsPrime(long* num, long*primeArray);
 long * setPrimeArray(long length);
 long concactNumber(long num1, long num2);
 bool isWorkingSet(long num1, long num2,long*primeArray);
+bool geoNumCompare(geoNum a, geoNum b);
+void findConnections(int  *numList);

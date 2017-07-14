@@ -1,7 +1,8 @@
-#include "Header.h"
 #include <iostream>
+#include "Header.h"
+;
 using namespace std;
-void main (){
+void e58 (){
 	const int length= 600000;
 	long *primeArray=setPrimeArray(length);
 	long diag1[length/10]={0};

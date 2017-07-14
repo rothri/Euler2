@@ -4,3 +4,11 @@
 *.tlog
 *.tlog
 *.log
+*.pdb
+*.tlog
+*.tlog
+*.obj
+*.idb
+*.vcxproj
+*.filters
+*.log
