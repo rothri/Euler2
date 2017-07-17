@@ -19,3 +19,9 @@
 *.pdb
 *.filters
 *.vcxproj
+*.tlog
+*.log
+*.idb
+*.filters
+*.vcxproj
+*.pdb
